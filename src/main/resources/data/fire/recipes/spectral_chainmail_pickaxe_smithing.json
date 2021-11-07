@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "fire:chainmail_pickaxe"
+  },
+  "addition": {
+    "item": "fire:soul_fire"
+  },
+  "result": {
+    "item": "fire:spectral_chainmail_pickaxe"
+  }
+}

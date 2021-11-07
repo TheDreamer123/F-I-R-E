@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "fire:soul_blocks"
+    },
+    {
+      "item": "fire:fire"
+    }
+  ],
+  "result": {
+    "item": "fire:soul_fire"
+  }
+}

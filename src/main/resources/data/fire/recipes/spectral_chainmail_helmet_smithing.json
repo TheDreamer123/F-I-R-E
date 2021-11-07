@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:chainmail_helmet"
+  },
+  "addition": {
+    "item": "fire:soul_fire"
+  },
+  "result": {
+    "item": "fire:spectral_chainmail_helmet"
+  }
+}

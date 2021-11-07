@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "fire:spectral_chainmail_helmet"
+    },
+    {
+      "item": "fire:spectral_chainmail_chestplate"
+    },
+    {
+      "item": "fire:spectral_chainmail_leggings"
+    },
+    {
+      "item": "fire:spectral_chainmail_boots"
+    },
+    {
+      "item": "fire:spectral_chainmail_sword"
+    },
+    {
+      "item": "fire:spectral_chainmail_pickaxe"
+    },
+    {
+      "item": "fire:spectral_chainmail_axe"
+    },
+    {
+      "item": "fire:spectral_chainmail_shovel"
+    },
+    {
+      "item": "fire:spectral_chainmail_hoe"
+    }
+  ],
+  "result": "fire:soul_fire",
+  "experience": 0.1,
+  "cookingtime": 100
+}

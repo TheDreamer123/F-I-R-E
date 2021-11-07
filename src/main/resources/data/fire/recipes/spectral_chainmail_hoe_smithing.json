@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "fire:chainmail_hoe"
+  },
+  "addition": {
+    "item": "fire:soul_fire"
+  },
+  "result": {
+    "item": "fire:spectral_chainmail_hoe"
+  }
+}
