@@ -1,0 +1,20 @@
+{
+  "death.attack.eatFire": "%1$s thought it was a good idea to eat fire.",
+  "death.attack.eatFire.player": "%2$s forced %1$s to eat fire.",
+
+  "item.fire.chainmail_sword": "Chainmail Sword",
+  "item.fire.chainmail_pickaxe": "Chainmail Pickaxe",
+  "item.fire.chainmail_axe": "Chainmail Axe",
+  "item.fire.chainmail_shovel": "Chainmail Shovel",
+  "item.fire.chainmail_hoe": "Chainmail Hoe",
+
+  "item.fire.spectral_chainmail_sword": "Spectral Chainmail Sword",
+  "item.fire.spectral_chainmail_pickaxe": "Spectral Chainmail Pickaxe",
+  "item.fire.spectral_chainmail_axe": "Spectral Chainmail Axe",
+  "item.fire.spectral_chainmail_shovel": "Spectral Chainmail Shovel",
+  "item.fire.spectral_chainmail_hoe": "Spectral Chainmail Hoe",
+  "item.fire.spectral_chainmail_helmet": "Spectral Chainmail Helmet",
+  "item.fire.spectral_chainmail_chestplate": "Spectral Chainmail Chestplate",
+  "item.fire.spectral_chainmail_leggings": "Spectral Chainmail Leggings",
+  "item.fire.spectral_chainmail_boots": "Spectral Chainmail Boots"
+}
