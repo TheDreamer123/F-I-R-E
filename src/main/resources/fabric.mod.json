@@ -9,8 +9,9 @@
     "TheDreamer123"
   ],
   "contact": {
-    "homepage": "",
-    "sources": ""
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/f-i-r-e",
+    "sources": "https://github.com/TheDreamer123/F-I-R-E/tree/1.17.1",
+    "issues": "https://github.com/TheDreamer123/F-I-R-E/issues"
   },
 
   "license": "MIT",
