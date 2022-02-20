@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.dreamer.fire.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "AccessDamageSource"
+  ],
+  "client": [
+    "AccessDamageSource"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
