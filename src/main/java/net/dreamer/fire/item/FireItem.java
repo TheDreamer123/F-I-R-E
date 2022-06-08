@@ -1,8 +1,8 @@
 package net.dreamer.fire.item;
 
+import net.dreamer.fire.Damage;
 import net.minecraft.block.Block;
 import net.minecraft.entity.LivingEntity;
-import net.minecraft.entity.damage.Damage;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
